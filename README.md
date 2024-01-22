@@ -7,7 +7,7 @@ Passionate artist who enjoy to re-design the way we make business using technolo
 ## My current stack
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
-[![JavaScript](https://img.shields.io/badge/javascript-EFD81D?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-F7CC40?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-ff8300?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Scala](https://img.shields.io/badge/scala-ff1000?style=flat-square&logo=scala&logoColor=white)](https://www.scala-lang.org/)
