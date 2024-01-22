@@ -12,7 +12,7 @@ Passionate artist who's re-designing the way we make business using technology
 [![Scala](https://img.shields.io/badge/scala-ff1000?style=flat-square&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 [![Spark](https://img.shields.io/badge/spark-DB571B?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Pandas](https://img.shields.io/badge/pandas-130654?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![GCP](https://img.shields.io/badge/GCP-4188F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-LATAM-all-es-dr-BKWS-all-all-trial-e-dr-1707800-LUAC0010197&utm_content=text-ad-none-any-DEV_c-CRE_512379899417-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General-KWID_43700062784667386-kwd-301173107424&utm_term=KW_google+cloud-ST_Google+Cloud&gad_source=1&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe53rQIOWejwnUjRttg3YPSQZx8RyKJc77otc83cIqxB-_0LBzXsH2FgaAgt7EALw_wcB&gclsrc=aw.ds&hl=es_419)
+[![GCP](https://img.shields.io/badge/GCP-4188F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-LATAM-all-es-dr-BKWS-all-all-trial-e-dr-1707800-LUAC0010197&utm_content=text-ad-none-any-DEV_c-CRE_512379899417-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General-KWID_43700062784667386-kwd-301173107424&utm_term=KW_google%20cloud-ST_Google%20Cloud&gad_source=1&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe53rQIOWejwnUjRttg3YPSQZx8RyKJc77otc83cIqxB-_0LBzXsH2FgaAgt7EALw_wcB&gclsrc=aw.ds&hl=en)
 
 ## Points of contact
 [![Gmail](https://img.shields.io/badge/GMail-CE3C30?style=flat-square&logo=gmail&logoColor=white)](mailto:ian22picado@gmail.com)
