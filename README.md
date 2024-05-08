@@ -1,4 +1,4 @@
-Hi! I'm Ian
+Hi! Xhio's here to help the open source comunity
 
 Passionate artist who's re-designing the way we make business using technology
 
