@@ -2,8 +2,8 @@ Hi! Xhio's here to help the open source comunity
 
 Passionate artist who's re-designing the way we make business using technology
 
-![Xhio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixn-xhio&show_icons=true&theme=tokyonight)
-![Xhio's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixn-xhio&layout=compact&theme=tokyonight)
+![Xhio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixn-xhio&show_icons=true&theme=midnight-purple)
+![Xhio's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixn-xhio&layout=compact&theme=midnight-purple)
 
 ## My current stack
 [![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
